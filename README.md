@@ -7,5 +7,6 @@
 Turtle graphics
 
 ### **<u>Project:</u>** <br/>
- 100 Days of Code - The Complete Python Pro Bootcamp 2021 <br />
- Day 19 - Intermediate - Instances, State and Higher Order Functions
+Etch A Sketch <br/>
+100 Days of Code - The Complete Python Pro Bootcamp 2021 <br />
+Day 19 - Intermediate - Instances, State and Higher Order Functions
