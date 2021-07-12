@@ -34,11 +34,11 @@ def world_clear():
 screen.listen()
 
 # Call the onkey method for the movements of turtle
-screen.onkey(key="w", fun=move_fd)
-screen.onkey(key="s", fun=move_bk)
-screen.onkey(key="a", fun=move_cw)
-screen.onkey(key="d", fun=move_ccw)
-screen.onkey(key="c", fun=world_clear)
+screen.onkeypress(key="w", fun=move_fd)
+screen.onkeypress(key="s", fun=move_bk)
+screen.onkeypress(key="a", fun=move_cw)
+screen.onkeypress(key="d", fun=move_ccw)
+screen.onkeypress(key="c", fun=world_clear)
 
 # Screen exit method
 screen.exitonclick()
